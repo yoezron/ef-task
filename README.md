@@ -1,7 +1,3 @@
-Tentu, ini adalah konten file `README.md` yang dibuat berdasarkan file yang Anda berikan.
-
----
-
 # Efektivitas Pelatihan Fungsi Eksekutif Melalui Permainan Digital
 
 ## Abstrak
